@@ -2,33 +2,33 @@
 Project Overview
 This project focuses on analyzing customer churn data to understand the factors that influence customer retention. Using Python and data analysis libraries, the dataset was cleaned, explored, and visualized to identify patterns in customer behavior.
 
-Tools & Technologies
+# Tools & Technologies
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Seaborn
+* Seaborn
 
-Jupyter Notebook
+* Jupyter Notebook
 
-Project Workflow
+# Project Workflow
 
-Data loading and inspection
+* Data loading and inspection
 
-Data cleaning and preprocessing
+* Data cleaning and preprocessing
 
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-Visualization of customer behavior patterns
+* Visualization of customer behavior patterns
 
-Insight generation for churn trends
+* Insight generation for churn trends
 
-Key Insights
+# Key Insights
 
 Customers with shorter tenure are more likely to churn
 
