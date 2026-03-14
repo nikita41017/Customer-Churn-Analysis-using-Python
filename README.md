@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis-using-Python
 Project Overview
-This project focuses on analyzing customer churn data to understand the factors that influence customer retention. Using Python and data analysis libraries, the dataset was cleaned, explored, and visualized to identify patterns in customer behavior.
+This project focuses on analyzing customer churn data to identify factors influencing customer retention. Using Python and data analysis libraries, the dataset was cleaned, explored, and visualized to identify patterns in customer behavior.
 
 # Tools & Technologies
 
